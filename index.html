@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>2026 World Cup</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="page-header">
+    <h1>2026 World Cup</h1>
+    <p class="page-intro">
+      Spain won the 2026 World Cup, beating Argentina in the final. Explore where every team finished and
+      where its players play their club football, compare players side by side, then read
+      <a href="#analysis-title">what decided the tournament</a> and
+      <a href="#lamine-title">why Lamine Yamal's World Cup fell short</a>.
+    </p>
+  </header>
+
+  <main class="layout">
+    <section class="panel map-panel" aria-labelledby="map-title">
+      <div class="panel-head">
+        <h2 id="map-title">World Cup Map</h2>
+        <label class="toggle">
+          <span class="toggle-off">Qualified teams</span>
+          <input type="checkbox" id="heat-toggle" aria-label="Show player concentration">
+          <span class="toggle-track" aria-hidden="true"></span>
+          <span class="toggle-on">Player concentration</span>
+        </label>
+      </div>
+      <ul class="legend" id="legend-result" aria-label="Map legend">
+        <li><span class="swatch knockout"></span>Reached knockout round</li>
+        <li><span class="swatch group"></span>Out in group stage</li>
+        <li><span class="swatch league"></span>Did not qualify, league had WC players</li>
+        <li><span class="swatch none"></span>Did not qualify</li>
+      </ul>
+      <div class="legend heat-legend" id="legend-heat" aria-label="Heat map legend" hidden>
+        <span>Share of all World Cup players in the country's leagues</span>
+        <div class="heat-scale">
+          <div class="heat-bar"></div>
+          <div class="heat-ticks"></div>
+        </div>
+      </div>
+      <div class="map-wrap">
+        <svg id="map" role="img" aria-label="World map of World Cup 2026 teams"></svg>
+      </div>
+      <div class="map-foot">
+        <p class="hint">Hover a country for details. Scroll or pinch to zoom.</p>
+        <div class="zoom-controls">
+          <button type="button" data-zoom="in" aria-label="Zoom in">+</button>
+          <button type="button" data-zoom="out" aria-label="Zoom out">&minus;</button>
+          <button type="button" data-zoom="reset" aria-label="Reset zoom">&#8634;</button>
+          <button type="button" id="fullscreen-btn" aria-label="Full screen" title="Full screen">&#x26F6;</button>
+        </div>
+      </div>
+      <!-- Inside the map panel so it still shows when the panel is full screen. -->
+      <div id="tooltip" class="tooltip" role="tooltip" hidden></div>
+    </section>
+
+    <!-- Player profile widgets (players.js builds them; "+" adds one to compare). -->
+    <div id="player-widgets" class="player-column"></div>
+
+    <!-- Data analysis: sits straight on the page, no panels. -->
+    <section class="analysis" aria-labelledby="analysis-title">
+      <h2 id="analysis-title" class="section-title">Data analysis</h2>
+      <div id="analysis-content" class="analysis-content">
+        <p class="analysis-empty">Analysis coming next.</p>
+      </div>
+    </section>
+
+    <section class="analysis" aria-labelledby="lamine-title">
+      <h2 id="lamine-title" class="section-title">Lamine Yamal at the World Cup</h2>
+      <div id="lamine-content" class="analysis-content"></div>
+    </section>
+
+    <!-- Write-up: what each section above shows. Figures match the charts' own subtitles. -->
+    <section class="analysis" aria-labelledby="insights-title">
+      <h2 id="insights-title" class="section-title">What the data says</h2>
+      <div class="insights">
+        <article class="insight">
+          <h3>The map: a tournament bigger than its 48 teams</h3>
+          <p>32 of the 48 teams reached the knockouts. Turn on player concentration and you'll see the real map of the
+            World Cup: 27 countries that didn't qualify still had players there through their clubs. Clubs in
+            England employed 204 of the 1,248 squad players, more than Germany and Spain combined.</p>
+        </article>
+        <article class="insight">
+          <h3>Player profiles: Mbappé led, Messi defied age</h3>
+          <p>Mbappé finished top scorer with 10 goals and 3 assists. At 38, Messi scored 8 and set up 4 on the way to
+            the final, ranking in the top 6% of forwards for non-penalty goals per 90. Bellingham's 7 goals came at
+            22.</p>
+        </article>
+        <article class="insight">
+          <h3>Where players play beats where they're from</h3>
+          <p>A strong home league barely predicted a deep run. The share of a squad at top-five-league clubs did, almost
+            as well as FIFA ranking. Spain had all 26 and won. The exceptions are the stories: Canada, Egypt, Mexico
+            and Paraguay reached the round of 16 with six or fewer such players each. Germany had 25 of 26 and went
+            out in the round of 32.</p>
+        </article>
+        <article class="insight">
+          <h3>Europe's big five still supply most of the World Cup</h3>
+          <p>The top five leagues supplied 538 of 1,248 players (43%), led by the Premier League with 196. Further down,
+            the Saudi Pro League (47) and MLS (45) each supplied more players than the Championship (36).</p>
+        </article>
+        <article class="insight">
+          <h3>Most attackers went quieter for their country</h3>
+          <p>118 of 183 midfielders and forwards (64%) produced less xG + xA per 90 at the World Cup than for their
+            clubs, and the typical player fell from 0.36 to 0.25. So a drop alone isn't a bad tournament, but the size
+            of it can be. Mikel Merino bucked it most (+0.68), while Patrik Schick dropped from 0.90 to 0.11.</p>
+        </article>
+        <article class="insight">
+          <h3>Lamine Yamal: busy, but not dangerous</h3>
+          <p>12 of 14 stats fell below his Barcelona level. He took the 7th most shots of 57 forwards, but only 13 had
+            worse chances (0.06 xG per shot, against 0.11 for Barcelona). He then scored 1 from 1.7 xG, after beating
+            his xG at club level (16 from 12.8). Spain won anyway, and not through finishing either: its players
+            scored 13 goals from 15.8 xG.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="sources">
+    FIFA ranking: 20 Jul 2026 release. League ranks and player stats: Opta. Squads, clubs and photos: Wikipedia.
+    Results: openfootball. Opta data is for personal use only.
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-geo-projection@4.0.0/dist/d3-geo-projection.min.js"></script>
+  <script src="app.js"></script>
+  <script src="players.js"></script>
+  <script src="analysis.js"></script>
+</body>
+</html>

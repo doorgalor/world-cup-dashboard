@@ -1,0 +1,3306 @@
+{
+ "ESP": {
+  "name": "Spain",
+  "mapId": "ESP",
+  "flag": "es",
+  "fifaRank": 1,
+  "titles": 2,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Winner"
+  },
+  "league": {
+   "name": "La Liga",
+   "rank": 2,
+   "players": 80,
+   "share": 6.41,
+   "otherLeaguePlayers": 5,
+   "allShare": 6.81
+  }
+ },
+ "ARG": {
+  "name": "Argentina",
+  "mapId": "ARG",
+  "flag": "ar",
+  "fifaRank": 2,
+  "titles": 3,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Runner-up"
+  },
+  "league": {
+   "name": "Liga Profesional Argentina",
+   "rank": 8,
+   "players": 17,
+   "share": 1.36,
+   "otherLeaguePlayers": 0,
+   "allShare": 1.36
+  }
+ },
+ "FRA": {
+  "name": "France",
+  "mapId": "FRA",
+  "flag": "fr",
+  "fifaRank": 3,
+  "titles": 2,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Fourth place"
+  },
+  "league": {
+   "name": "Ligue 1",
+   "rank": 5,
+   "players": 77,
+   "share": 6.17,
+   "otherLeaguePlayers": 7,
+   "allShare": 6.73
+  }
+ },
+ "ENG": {
+  "name": "England",
+  "mapId": "ENG",
+  "flag": "gb-eng",
+  "fifaRank": 4,
+  "titles": 1,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Third place"
+  },
+  "league": {
+   "name": "Premier League",
+   "rank": 1,
+   "players": 163,
+   "share": 13.06,
+   "otherLeaguePlayers": 41,
+   "allShare": 16.35
+  }
+ },
+ "POR": {
+  "name": "Portugal",
+  "mapId": "PRT",
+  "flag": "pt",
+  "fifaRank": 5,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 16"
+  },
+  "league": {
+   "name": "Primeira Liga",
+   "rank": 9,
+   "players": 27,
+   "share": 2.16,
+   "otherLeaguePlayers": 4,
+   "allShare": 2.48
+  }
+ },
+ "BRA": {
+  "name": "Brazil",
+  "mapId": "BRA",
+  "flag": "br",
+  "fifaRank": 6,
+  "titles": 5,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 16"
+  },
+  "league": {
+   "name": "Brasileirão",
+   "rank": 6,
+   "players": 32,
+   "share": 2.56,
+   "otherLeaguePlayers": 0,
+   "allShare": 2.56
+  }
+ },
+ "MAR": {
+  "name": "Morocco",
+  "mapId": "MAR",
+  "flag": "ma",
+  "fifaRank": 7,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated quarter-finals"
+  },
+  "league": {
+   "name": "Botola Pro",
+   "rank": 38,
+   "players": 3,
+   "share": 0.24,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.24
+  }
+ },
+ "BEL": {
+  "name": "Belgium",
+  "mapId": "BEL",
+  "flag": "be",
+  "fifaRank": 8,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated quarter-finals"
+  },
+  "league": {
+   "name": "Jupiler Pro League",
+   "rank": 7,
+   "players": 29,
+   "share": 2.32,
+   "otherLeaguePlayers": 0,
+   "allShare": 2.32
+  }
+ },
+ "NED": {
+  "name": "Netherlands",
+  "mapId": "NLD",
+  "flag": "nl",
+  "fifaRank": 9,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "Eredivisie",
+   "rank": 11,
+   "players": 33,
+   "share": 2.64,
+   "otherLeaguePlayers": 5,
+   "allShare": 3.04
+  }
+ },
+ "MEX": {
+  "name": "Mexico",
+  "mapId": "MEX",
+  "flag": "mx",
+  "fifaRank": 10,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 16"
+  },
+  "league": {
+   "name": "Liga MX",
+   "rank": 16,
+   "players": 26,
+   "share": 2.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 2.08
+  }
+ },
+ "COL": {
+  "name": "Colombia",
+  "mapId": "COL",
+  "flag": "co",
+  "fifaRank": 11,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 16"
+  },
+  "league": {
+   "name": "Colombia Primera A",
+   "rank": 18,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.08
+  }
+ },
+ "SUI": {
+  "name": "Switzerland",
+  "mapId": "CHE",
+  "flag": "ch",
+  "fifaRank": 12,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated quarter-finals"
+  },
+  "league": {
+   "name": "Brack Super League",
+   "rank": 21,
+   "players": 11,
+   "share": 0.88,
+   "otherLeaguePlayers": 1,
+   "allShare": 0.96
+  }
+ },
+ "GER": {
+  "name": "Germany",
+  "mapId": "DEU",
+  "flag": "de",
+  "fifaRank": 13,
+  "titles": 4,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "Bundesliga",
+   "rank": 3,
+   "players": 101,
+   "share": 8.09,
+   "otherLeaguePlayers": 9,
+   "allShare": 8.81
+  }
+ },
+ "CRO": {
+  "name": "Croatia",
+  "mapId": "HRV",
+  "flag": "hr",
+  "fifaRank": 14,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "Croatia Prva HNL",
+   "rank": 23,
+   "players": 6,
+   "share": 0.48,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.48
+  }
+ },
+ "ITA": {
+  "name": "Italy",
+  "mapId": "ITA",
+  "flag": "it",
+  "fifaRank": 15,
+  "titles": 4,
+  "worldCup": null,
+  "league": {
+   "name": "Serie A",
+   "rank": 4,
+   "players": 66,
+   "share": 5.29,
+   "otherLeaguePlayers": 5,
+   "allShare": 5.69
+  }
+ },
+ "USA": {
+  "name": "USA",
+  "mapId": "USA",
+  "flag": "us",
+  "fifaRank": 16,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 16"
+  },
+  "league": {
+   "name": "Major League Soccer",
+   "rank": 17,
+   "players": 45,
+   "share": 3.61,
+   "otherLeaguePlayers": 5,
+   "allShare": 4.01
+  }
+ },
+ "JPN": {
+  "name": "Japan",
+  "mapId": "JPN",
+  "flag": "jp",
+  "fifaRank": 17,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "J1 League",
+   "rank": 27,
+   "players": 6,
+   "share": 0.48,
+   "otherLeaguePlayers": 1,
+   "allShare": 0.56
+  }
+ },
+ "SEN": {
+  "name": "Senegal",
+  "mapId": "SEN",
+  "flag": "sn",
+  "fifaRank": 18,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "Ligue 1",
+   "rank": 117,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "NOR": {
+  "name": "Norway",
+  "mapId": "NOR",
+  "flag": "no",
+  "fifaRank": 19,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated quarter-finals"
+  },
+  "league": {
+   "name": "Eliteserien",
+   "rank": 13,
+   "players": 7,
+   "share": 0.56,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.56
+  }
+ },
+ "URU": {
+  "name": "Uruguay",
+  "mapId": "URY",
+  "flag": "uy",
+  "fifaRank": 20,
+  "titles": 2,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "Uruguay Liga AUF",
+   "rank": 33,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.08
+  }
+ },
+ "DEN": {
+  "name": "Denmark",
+  "mapId": "DNK",
+  "flag": "dk",
+  "fifaRank": 21,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Superligaen",
+   "rank": 14,
+   "players": 14,
+   "share": 1.12,
+   "otherLeaguePlayers": 0,
+   "allShare": 1.12
+  }
+ },
+ "AUT": {
+  "name": "Austria",
+  "mapId": "AUT",
+  "flag": "at",
+  "fifaRank": 22,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "Bundesliga",
+   "rank": 25,
+   "players": 8,
+   "share": 0.64,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.64
+  }
+ },
+ "IRN": {
+  "name": "IR Iran",
+  "mapId": "IRN",
+  "flag": "ir",
+  "fifaRank": 23,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "Persian Gulf Pro League",
+   "rank": 68,
+   "players": 22,
+   "share": 1.76,
+   "otherLeaguePlayers": 0,
+   "allShare": 1.76
+  }
+ },
+ "ECU": {
+  "name": "Ecuador",
+  "mapId": "ECU",
+  "flag": "ec",
+  "fifaRank": 24,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "Ecuador Liga Pro",
+   "rank": 19,
+   "players": 5,
+   "share": 0.4,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.4
+  }
+ },
+ "EGY": {
+  "name": "Egypt",
+  "mapId": "EGY",
+  "flag": "eg",
+  "fifaRank": 25,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 16"
+  },
+  "league": {
+   "name": "Premier League",
+   "rank": 41,
+   "players": 20,
+   "share": 1.6,
+   "otherLeaguePlayers": 0,
+   "allShare": 1.6
+  }
+ },
+ "AUS": {
+  "name": "Australia",
+  "mapId": "AUS",
+  "flag": "au",
+  "fifaRank": 26,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "A-League Men",
+   "rank": 73,
+   "players": 16,
+   "share": 1.28,
+   "otherLeaguePlayers": 0,
+   "allShare": 1.28
+  }
+ },
+ "CAN": {
+  "name": "Canada",
+  "mapId": "CAN",
+  "flag": "ca",
+  "fifaRank": 27,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 16"
+  },
+  "league": {
+   "name": "Premier League",
+   "rank": 132,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "ALG": {
+  "name": "Algeria",
+  "mapId": "DZA",
+  "flag": "dz",
+  "fifaRank": 28,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "Ligue 1",
+   "rank": 46,
+   "players": 3,
+   "share": 0.24,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.24
+  }
+ },
+ "CIV": {
+  "name": "Côte d'Ivoire",
+  "mapId": "CIV",
+  "flag": "ci",
+  "fifaRank": 29,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "Ligue 1",
+   "rank": 111,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "NGA": {
+  "name": "Nigeria",
+  "mapId": "NGA",
+  "flag": "ng",
+  "fifaRank": 30,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Nigerian Premier League",
+   "rank": 84,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "TUR": {
+  "name": "Türkiye",
+  "mapId": "TUR",
+  "flag": "tr",
+  "fifaRank": 31,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "Super Lig",
+   "rank": 12,
+   "players": 43,
+   "share": 3.45,
+   "otherLeaguePlayers": 2,
+   "allShare": 3.61
+  }
+ },
+ "KOR": {
+  "name": "Korea Republic",
+  "mapId": "KOR",
+  "flag": "kr",
+  "fifaRank": 32,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "K-League 1",
+   "rank": 51,
+   "players": 8,
+   "share": 0.64,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.64
+  }
+ },
+ "PAR": {
+  "name": "Paraguay",
+  "mapId": "PRY",
+  "flag": "py",
+  "fifaRank": 33,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 16"
+  },
+  "league": {
+   "name": "Paraguay Primera División",
+   "rank": 30,
+   "players": 3,
+   "share": 0.24,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.24
+  }
+ },
+ "SWE": {
+  "name": "Sweden",
+  "mapId": "SWE",
+  "flag": "se",
+  "fifaRank": 34,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "Allsvenskan",
+   "rank": 31,
+   "players": 3,
+   "share": 0.24,
+   "otherLeaguePlayers": 1,
+   "allShare": 0.32
+  }
+ },
+ "RUS": {
+  "name": "Russia",
+  "mapId": "RUS",
+  "flag": "ru",
+  "fifaRank": 35,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 26,
+   "players": 11,
+   "share": 0.88,
+   "otherLeaguePlayers": 1,
+   "allShare": 0.96
+  }
+ },
+ "UKR": {
+  "name": "Ukraine",
+  "mapId": "UKR",
+  "flag": "ua",
+  "fifaRank": 36,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Ukraine Premier League",
+   "rank": 57,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "POL": {
+  "name": "Poland",
+  "mapId": "POL",
+  "flag": "pl",
+  "fifaRank": 37,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Ekstraklasa",
+   "rank": 15,
+   "players": 4,
+   "share": 0.32,
+   "otherLeaguePlayers": 1,
+   "allShare": 0.4
+  }
+ },
+ "HUN": {
+  "name": "Hungary",
+  "mapId": "HUN",
+  "flag": "hu",
+  "fifaRank": 38,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Liga NB I",
+   "rank": 32,
+   "players": 3,
+   "share": 0.24,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.24
+  }
+ },
+ "WAL": {
+  "name": "Wales",
+  "mapId": "WLS",
+  "flag": "gb-wls",
+  "fifaRank": 39,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 225,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "COD": {
+  "name": "Congo DR",
+  "mapId": "COD",
+  "flag": "cd",
+  "fifaRank": 40,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "Ligue 1",
+   "rank": 163,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "GRE": {
+  "name": "Greece",
+  "mapId": "GRC",
+  "flag": "gr",
+  "fifaRank": 41,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Super League",
+   "rank": 24,
+   "players": 12,
+   "share": 0.96,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.96
+  }
+ },
+ "CMR": {
+  "name": "Cameroon",
+  "mapId": "CMR",
+  "flag": "cm",
+  "fifaRank": 42,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Elite One",
+   "rank": 183,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "SCO": {
+  "name": "Scotland",
+  "mapId": "SCT",
+  "flag": "gb-sct",
+  "fifaRank": 43,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "Scottish Premiership",
+   "rank": 39,
+   "players": 20,
+   "share": 1.6,
+   "otherLeaguePlayers": 0,
+   "allShare": 1.6
+  }
+ },
+ "SRB": {
+  "name": "Serbia",
+  "mapId": "SRB",
+  "flag": "rs",
+  "fifaRank": 44,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Super Liga",
+   "rank": 58,
+   "players": 2,
+   "share": 0.16,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.16
+  }
+ },
+ "SVK": {
+  "name": "Slovakia",
+  "mapId": "SVK",
+  "flag": "sk",
+  "fifaRank": 45,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Slovakia 1. liga",
+   "rank": 50,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 1,
+   "allShare": 0.16
+  }
+ },
+ "PAN": {
+  "name": "Panama",
+  "mapId": "PAN",
+  "flag": "pa",
+  "fifaRank": 46,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "LPF",
+   "rank": 109,
+   "players": 2,
+   "share": 0.16,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.16
+  }
+ },
+ "MLI": {
+  "name": "Mali",
+  "mapId": "MLI",
+  "flag": "ml",
+  "fifaRank": 47,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Première Division",
+   "rank": 106,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "RSA": {
+  "name": "South Africa",
+  "mapId": "ZAF",
+  "flag": "za",
+  "fifaRank": 48,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "South Africa PSL",
+   "rank": 62,
+   "players": 19,
+   "share": 1.52,
+   "otherLeaguePlayers": 0,
+   "allShare": 1.52
+  }
+ },
+ "VEN": {
+  "name": "Venezuela",
+  "mapId": "VEN",
+  "flag": "ve",
+  "fifaRank": 49,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Venezuela Primera División",
+   "rank": 49,
+   "players": 2,
+   "share": 0.16,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.16
+  }
+ },
+ "CHI": {
+  "name": "Chile",
+  "mapId": "CHL",
+  "flag": "cl",
+  "fifaRank": 50,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Chile Primera",
+   "rank": 28,
+   "players": 2,
+   "share": 0.16,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.16
+  }
+ },
+ "CZE": {
+  "name": "Czechia",
+  "mapId": "CZE",
+  "flag": "cz",
+  "fifaRank": 51,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "First League",
+   "rank": 22,
+   "players": 22,
+   "share": 1.76,
+   "otherLeaguePlayers": 0,
+   "allShare": 1.76
+  }
+ },
+ "SVN": {
+  "name": "Slovenia",
+  "mapId": "SVN",
+  "flag": "si",
+  "fifaRank": 52,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Slovenia PrvaLiga",
+   "rank": 64,
+   "players": 2,
+   "share": 0.16,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.16
+  }
+ },
+ "PER": {
+  "name": "Peru",
+  "mapId": "PER",
+  "flag": "pe",
+  "fifaRank": 53,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Peru Liga 1",
+   "rank": 36,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "CRC": {
+  "name": "Costa Rica",
+  "mapId": "CRI",
+  "flag": "cr",
+  "fifaRank": 54,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Costa Rica Primera Division",
+   "rank": 44,
+   "players": 2,
+   "share": 0.16,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.16
+  }
+ },
+ "KSA": {
+  "name": "Saudi Arabia",
+  "mapId": "SAU",
+  "flag": "sa",
+  "fifaRank": 55,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "Saudi Pro League",
+   "rank": 40,
+   "players": 47,
+   "share": 3.77,
+   "otherLeaguePlayers": 3,
+   "allShare": 4.01
+  }
+ },
+ "IRL": {
+  "name": "Republic of Ireland",
+  "mapId": "IRL",
+  "flag": "ie",
+  "fifaRank": 56,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 79,
+   "players": 2,
+   "share": 0.16,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.16
+  }
+ },
+ "BIH": {
+  "name": "Bosnia and Herzegovina",
+  "mapId": "BIH",
+  "flag": "ba",
+  "fifaRank": 57,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "Bosnia and Herzegovina Premijer Liga",
+   "rank": 69,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.08
+  }
+ },
+ "ROU": {
+  "name": "Romania",
+  "mapId": "ROU",
+  "flag": "ro",
+  "fifaRank": 58,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Romania Liga I",
+   "rank": 47,
+   "players": 2,
+   "share": 0.16,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.16
+  }
+ },
+ "UZB": {
+  "name": "Uzbekistan",
+  "mapId": "UZB",
+  "flag": "uz",
+  "fifaRank": 59,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "Super League",
+   "rank": 97,
+   "players": 17,
+   "share": 1.36,
+   "otherLeaguePlayers": 0,
+   "allShare": 1.36
+  }
+ },
+ "QAT": {
+  "name": "Qatar",
+  "mapId": "QAT",
+  "flag": "qa",
+  "fifaRank": 60,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "Qatar Stars League",
+   "rank": 75,
+   "players": 29,
+   "share": 2.32,
+   "otherLeaguePlayers": 0,
+   "allShare": 2.32
+  }
+ },
+ "TUN": {
+  "name": "Tunisia",
+  "mapId": "TUN",
+  "flag": "tn",
+  "fifaRank": 61,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "Ligue 1",
+   "rank": 81,
+   "players": 7,
+   "share": 0.56,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.56
+  }
+ },
+ "BFA": {
+  "name": "Burkina Faso",
+  "mapId": "BFA",
+  "flag": "bf",
+  "fifaRank": 62,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Ligue 1",
+   "rank": 126,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "IRQ": {
+  "name": "Iraq",
+  "mapId": "IRQ",
+  "flag": "iq",
+  "fifaRank": 63,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "Iraqi League",
+   "rank": 94,
+   "players": 14,
+   "share": 1.12,
+   "otherLeaguePlayers": 0,
+   "allShare": 1.12
+  }
+ },
+ "NIR": {
+  "name": "Northern Ireland",
+  "mapId": "NIR",
+  "flag": "gb-nir",
+  "fifaRank": 64,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Northern Ireland Premiership",
+   "rank": 196,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "UAE": {
+  "name": "United Arab Emirates",
+  "mapId": "ARE",
+  "flag": "ae",
+  "fifaRank": 65,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "UAE Pro League",
+   "rank": 54,
+   "players": 11,
+   "share": 0.88,
+   "otherLeaguePlayers": 4,
+   "allShare": 1.2
+  }
+ },
+ "ALB": {
+  "name": "Albania",
+  "mapId": "ALB",
+  "flag": "al",
+  "fifaRank": 66,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Albanian Kategoria Superiore",
+   "rank": 63,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "HON": {
+  "name": "Honduras",
+  "mapId": "HND",
+  "flag": "hn",
+  "fifaRank": 67,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Honduras Liga Nacional",
+   "rank": 65,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.08
+  }
+ },
+ "CPV": {
+  "name": "Cabo Verde",
+  "mapId": "CPV",
+  "flag": "cv",
+  "fifaRank": 68,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "Campeonato Nacional",
+   "rank": 197,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "JAM": {
+  "name": "Jamaica",
+  "mapId": "JAM",
+  "flag": "jm",
+  "fifaRank": 69,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 123,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "GHA": {
+  "name": "Ghana",
+  "mapId": "GHA",
+  "flag": "gh",
+  "fifaRank": 70,
+  "titles": 0,
+  "worldCup": {
+   "status": "knockout",
+   "result": "Eliminated round of 32"
+  },
+  "league": {
+   "name": "Ghana Premier League",
+   "rank": 83,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.08
+  }
+ },
+ "MKD": {
+  "name": "North Macedonia",
+  "mapId": "MKD",
+  "flag": "mk",
+  "fifaRank": 71,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Macedonian First League",
+   "rank": 92,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "JOR": {
+  "name": "Jordan",
+  "mapId": "JOR",
+  "flag": "jo",
+  "fifaRank": 72,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "Jordan League",
+   "rank": 100,
+   "players": 12,
+   "share": 0.96,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.96
+  }
+ },
+ "ISL": {
+  "name": "Iceland",
+  "mapId": "ISL",
+  "flag": "is",
+  "fifaRank": 73,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Icelandic Besta deild",
+   "rank": 89,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "GEO": {
+  "name": "Georgia",
+  "mapId": "GEO",
+  "flag": "ge",
+  "fifaRank": 74,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Georgian Premier League",
+   "rank": 99,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "FIN": {
+  "name": "Finland",
+  "mapId": "FIN",
+  "flag": "fi",
+  "fifaRank": 75,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Finnish Veikkausliiga",
+   "rank": 71,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.08
+  }
+ },
+ "KOS": {
+  "name": "Kosovo",
+  "mapId": "KOS",
+  "flag": "xk",
+  "fifaRank": 76,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Kosovan Superliga",
+   "rank": 74,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "ISR": {
+  "name": "Israel",
+  "mapId": "ISR",
+  "flag": "il",
+  "fifaRank": 77,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Ligat Ha'al",
+   "rank": 43,
+   "players": 4,
+   "share": 0.32,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.32
+  }
+ },
+ "BOL": {
+  "name": "Bolivia",
+  "mapId": "BOL",
+  "flag": "bo",
+  "fifaRank": 78,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Bolivia Primera División",
+   "rank": 48,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "MNE": {
+  "name": "Montenegro",
+  "mapId": "MNE",
+  "flag": "me",
+  "fifaRank": 79,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Montenegro First League",
+   "rank": 155,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "CUW": {
+  "name": "Curaçao",
+  "mapId": "CUW",
+  "flag": "cw",
+  "fifaRank": 80,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "Curaçao Promé Divishon",
+   "rank": 263,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "OMA": {
+  "name": "Oman",
+  "mapId": "OMN",
+  "flag": "om",
+  "fifaRank": 81,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Professional League",
+   "rank": 144,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "GUI": {
+  "name": "Guinea",
+  "mapId": "GIN",
+  "flag": "gn",
+  "fifaRank": 82,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Ligue 1",
+   "rank": 136,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "ANG": {
+  "name": "Angola",
+  "mapId": "AGO",
+  "flag": "ao",
+  "fifaRank": 83,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Angolan Girabola",
+   "rank": 116,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "HAI": {
+  "name": "Haiti",
+  "mapId": "HTI",
+  "flag": "ht",
+  "fifaRank": 84,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "Ligue Haïtienne",
+   "rank": 147,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.08
+  }
+ },
+ "GAB": {
+  "name": "Gabon",
+  "mapId": "GAB",
+  "flag": "ga",
+  "fifaRank": 85,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Championnat D1",
+   "rank": 173,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "SYR": {
+  "name": "Syria",
+  "mapId": "SYR",
+  "flag": "sy",
+  "fifaRank": 86,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 137,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "UGA": {
+  "name": "Uganda",
+  "mapId": "UGA",
+  "flag": "ug",
+  "fifaRank": 87,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Uganda Premier League",
+   "rank": 153,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "NZL": {
+  "name": "New Zealand",
+  "mapId": "NZL",
+  "flag": "nz",
+  "fifaRank": 88,
+  "titles": 0,
+  "worldCup": {
+   "status": "group",
+   "result": "Eliminated group stage"
+  },
+  "league": {
+   "name": "National League",
+   "rank": 298,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "BEN": {
+  "name": "Benin",
+  "mapId": "BEN",
+  "flag": "bj",
+  "fifaRank": 89,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Championnat National",
+   "rank": 160,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "BUL": {
+  "name": "Bulgaria",
+  "mapId": "BGR",
+  "flag": "bg",
+  "fifaRank": 90,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Bulgaria First League",
+   "rank": 55,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 1,
+   "allShare": 0.16
+  }
+ },
+ "ZAM": {
+  "name": "Zambia",
+  "mapId": "ZMB",
+  "flag": "zm",
+  "fifaRank": 91,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Zambia Super League",
+   "rank": 98,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "PLE": {
+  "name": "Palestine",
+  "mapId": "PSX",
+  "flag": "ps",
+  "fifaRank": 92,
+  "titles": 0,
+  "worldCup": null
+ },
+ "THA": {
+  "name": "Thailand",
+  "mapId": "THA",
+  "flag": "th",
+  "fifaRank": 93,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Thai League 1",
+   "rank": 119,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.08
+  }
+ },
+ "BLR": {
+  "name": "Belarus",
+  "mapId": "BLR",
+  "flag": "by",
+  "fifaRank": 94,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Belarus Premier League",
+   "rank": 86,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "GUA": {
+  "name": "Guatemala",
+  "mapId": "GTM",
+  "flag": "gt",
+  "fifaRank": 95,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Guatemala Liga Nacional",
+   "rank": 60,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "CHN": {
+  "name": "China PR",
+  "mapId": "CHN",
+  "flag": "cn",
+  "fifaRank": 96,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Super League",
+   "rank": 105,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.08
+  }
+ },
+ "BHR": {
+  "name": "Bahrain",
+  "mapId": "BHR",
+  "flag": "bh",
+  "fifaRank": 97,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 124,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "MOZ": {
+  "name": "Mozambique",
+  "mapId": "MOZ",
+  "flag": "mz",
+  "fifaRank": 98,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Moçambola",
+   "rank": 149,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "VIE": {
+  "name": "Vietnam",
+  "mapId": "VNM",
+  "flag": "vn",
+  "fifaRank": 99,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "V.League 1",
+   "rank": 141,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "TJK": {
+  "name": "Tajikistan",
+  "mapId": "TJK",
+  "flag": "tj",
+  "fifaRank": 100,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Vysshaya Liga",
+   "rank": 257,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "LUX": {
+  "name": "Luxembourg",
+  "mapId": "LUX",
+  "flag": "lu",
+  "fifaRank": 101,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Luxembourg Division Nationale",
+   "rank": 156,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "SLV": {
+  "name": "El Salvador",
+  "mapId": "SLV",
+  "flag": "sv",
+  "fifaRank": 102,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "El Salvador Primera Division",
+   "rank": 102,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "EQG": {
+  "name": "Equatorial Guinea",
+  "mapId": "GNQ",
+  "flag": "gq",
+  "fifaRank": 103,
+  "titles": 0,
+  "worldCup": null
+ },
+ "KGZ": {
+  "name": "Kyrgyz Republic",
+  "mapId": "KGZ",
+  "flag": "kg",
+  "fifaRank": 104,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 308,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "TRI": {
+  "name": "Trinidad and Tobago",
+  "mapId": "TTO",
+  "flag": "tt",
+  "fifaRank": 105,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "TT Premier League",
+   "rank": 254,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "MAD": {
+  "name": "Madagascar",
+  "mapId": "MDG",
+  "flag": "mg",
+  "fifaRank": 106,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Pro League",
+   "rank": 184,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "COM": {
+  "name": "Comoros",
+  "mapId": "COM",
+  "flag": "km",
+  "fifaRank": 107,
+  "titles": 0,
+  "worldCup": null
+ },
+ "ARM": {
+  "name": "Armenia",
+  "mapId": "ARM",
+  "flag": "am",
+  "fifaRank": 108,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Armenian Premier League",
+   "rank": 93,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.08
+  }
+ },
+ "GAM": {
+  "name": "The Gambia",
+  "mapId": "GMB",
+  "flag": "gm",
+  "fifaRank": 109,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "GFA League",
+   "rank": 191,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "MTN": {
+  "name": "Mauritania",
+  "mapId": "MRT",
+  "flag": "mr",
+  "fifaRank": 110,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 176,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "NIG": {
+  "name": "Niger",
+  "mapId": "NER",
+  "flag": "ne",
+  "fifaRank": 111,
+  "titles": 0,
+  "worldCup": null
+ },
+ "LBN": {
+  "name": "Lebanon",
+  "mapId": "LBN",
+  "flag": "lb",
+  "fifaRank": 112,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 189,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "LBY": {
+  "name": "Libya",
+  "mapId": "LBY",
+  "flag": "ly",
+  "fifaRank": 113,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 154,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "KEN": {
+  "name": "Kenya",
+  "mapId": "KEN",
+  "flag": "ke",
+  "fifaRank": 114,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Kenya Premier League",
+   "rank": 166,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "TAN": {
+  "name": "Tanzania",
+  "mapId": "TZA",
+  "flag": "tz",
+  "fifaRank": 115,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Ligi kuu Bara",
+   "rank": 115,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "IDN": {
+  "name": "Indonesia",
+  "mapId": "IDN",
+  "flag": "id",
+  "fifaRank": 116,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Indonesia Super League",
+   "rank": 143,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.08
+  }
+ },
+ "KAZ": {
+  "name": "Kazakhstan",
+  "mapId": "KAZ",
+  "flag": "kz",
+  "fifaRank": 117,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Kazakhstan Premier League",
+   "rank": 80,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.08
+  }
+ },
+ "SDN": {
+  "name": "Sudan",
+  "mapId": "SDN",
+  "flag": "sd",
+  "fifaRank": 118,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 165,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "RWA": {
+  "name": "Rwanda",
+  "mapId": "RWA",
+  "flag": "rw",
+  "fifaRank": 119,
+  "titles": 0,
+  "worldCup": null
+ },
+ "TOG": {
+  "name": "Togo",
+  "mapId": "TGO",
+  "flag": "tg",
+  "fifaRank": 120,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Championnat National",
+   "rank": 134,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "PRK": {
+  "name": "DPR Korea",
+  "mapId": "PRK",
+  "flag": "kp",
+  "fifaRank": 121,
+  "titles": 0,
+  "worldCup": null
+ },
+ "EST": {
+  "name": "Estonia",
+  "mapId": "EST",
+  "flag": "ee",
+  "fifaRank": 122,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Estonian Premium liiga",
+   "rank": 174,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "NAM": {
+  "name": "Namibia",
+  "mapId": "NAM",
+  "flag": "na",
+  "fifaRank": 123,
+  "titles": 0,
+  "worldCup": null
+ },
+ "GNB": {
+  "name": "Guinea-Bissau",
+  "mapId": "GNB",
+  "flag": "gw",
+  "fifaRank": 124,
+  "titles": 0,
+  "worldCup": null
+ },
+ "CYP": {
+  "name": "Cyprus",
+  "mapId": "CYP",
+  "flag": "cy",
+  "fifaRank": 125,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Division 1",
+   "rank": 34,
+   "players": 10,
+   "share": 0.8,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.8
+  }
+ },
+ "FRO": {
+  "name": "Faroe Islands",
+  "mapId": "FRO",
+  "flag": "fo",
+  "fifaRank": 126,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Faroe Islands Premier League",
+   "rank": 159,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "AZE": {
+  "name": "Azerbaijan",
+  "mapId": "AZE",
+  "flag": "az",
+  "fifaRank": 127,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Azerbaijan Premier League",
+   "rank": 53,
+   "players": 1,
+   "share": 0.08,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.08
+  }
+ },
+ "SUR": {
+  "name": "Suriname",
+  "mapId": "SUR",
+  "flag": "sr",
+  "fifaRank": 128,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Suriname Major League",
+   "rank": 203,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "ZIM": {
+  "name": "Zimbabwe",
+  "mapId": "ZWE",
+  "flag": "zw",
+  "fifaRank": 129,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Zimbabwe Premier Soccer League",
+   "rank": 112,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "SLE": {
+  "name": "Sierra Leone",
+  "mapId": "SLE",
+  "flag": "sl",
+  "fifaRank": 130,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 255,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "MWI": {
+  "name": "Malawi",
+  "mapId": "MWI",
+  "flag": "mw",
+  "fifaRank": 131,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Super League",
+   "rank": 211,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "CGO": {
+  "name": "Congo",
+  "mapId": "COG",
+  "flag": "cg",
+  "fifaRank": 132,
+  "titles": 0,
+  "worldCup": null
+ },
+ "MAS": {
+  "name": "Malaysia",
+  "mapId": "MYS",
+  "flag": "my",
+  "fifaRank": 133,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Malaysian Super League",
+   "rank": 182,
+   "players": 3,
+   "share": 0.24,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.24
+  }
+ },
+ "KUW": {
+  "name": "Kuwait",
+  "mapId": "KWT",
+  "flag": "kw",
+  "fifaRank": 134,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 140,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "DOM": {
+  "name": "Dominican Republic",
+  "mapId": "DOM",
+  "flag": "do",
+  "fifaRank": 135,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Liga Mayor",
+   "rank": 145,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "PHI": {
+  "name": "Philippines",
+  "mapId": "PHL",
+  "flag": "ph",
+  "fifaRank": 136,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "PFL",
+   "rank": 235,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "NCA": {
+  "name": "Nicaragua",
+  "mapId": "NIC",
+  "flag": "ni",
+  "fifaRank": 137,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Primera Division",
+   "rank": 133,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "IND": {
+  "name": "India",
+  "mapId": "IND",
+  "flag": "in",
+  "fifaRank": 138,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Indian Super League",
+   "rank": 195,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "TKM": {
+  "name": "Turkmenistan",
+  "mapId": "TKM",
+  "flag": "tm",
+  "fifaRank": 139,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Ýokary Liga",
+   "rank": 234,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "BDI": {
+  "name": "Burundi",
+  "mapId": "BDI",
+  "flag": "bi",
+  "fifaRank": 140,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Ligue A",
+   "rank": 204,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "BOT": {
+  "name": "Botswana",
+  "mapId": "BWA",
+  "flag": "bw",
+  "fifaRank": 141,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 207,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "GUY": {
+  "name": "Guyana",
+  "mapId": "GUY",
+  "flag": "gy",
+  "fifaRank": 142,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "GFF Elite League",
+   "rank": 303,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "LVA": {
+  "name": "Latvia",
+  "mapId": "LVA",
+  "flag": "lv",
+  "fifaRank": 143,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Latvian Virsliga",
+   "rank": 110,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "YEM": {
+  "name": "Yemen",
+  "mapId": "YEM",
+  "flag": "ye",
+  "fifaRank": 144,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Yemeni League",
+   "rank": 229,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "CTA": {
+  "name": "Central African Republic",
+  "mapId": "CAF",
+  "flag": "cf",
+  "fifaRank": 145,
+  "titles": 0,
+  "worldCup": null
+ },
+ "LBR": {
+  "name": "Liberia",
+  "mapId": "LBR",
+  "flag": "lr",
+  "fifaRank": 146,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "LFA First Division",
+   "rank": 218,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "ETH": {
+  "name": "Ethiopia",
+  "mapId": "ETH",
+  "flag": "et",
+  "fifaRank": 147,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 161,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "LTU": {
+  "name": "Lithuania",
+  "mapId": "LTU",
+  "flag": "lt",
+  "fifaRank": 148,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Lithuanian Toplyga",
+   "rank": 104,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "SGP": {
+  "name": "Singapore",
+  "mapId": "SGP",
+  "flag": "sg",
+  "fifaRank": 149,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Singapore Premier League",
+   "rank": 215,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "LES": {
+  "name": "Lesotho",
+  "mapId": "LSO",
+  "flag": "ls",
+  "fifaRank": 150,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 220,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "SKN": {
+  "name": "St. Kitts and Nevis",
+  "mapId": "KNA",
+  "flag": "kn",
+  "fifaRank": 151,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 245,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "SOL": {
+  "name": "Solomon Islands",
+  "mapId": "SLB",
+  "flag": "sb",
+  "fifaRank": 152,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "S-League",
+   "rank": 422,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "HKG": {
+  "name": "Hong Kong",
+  "mapId": "HKG",
+  "flag": "hk",
+  "fifaRank": 153,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 240,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "FIJ": {
+  "name": "Fiji",
+  "mapId": "FJI",
+  "flag": "fj",
+  "fifaRank": 154,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "National Football League",
+   "rank": 387,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "PUR": {
+  "name": "Puerto Rico",
+  "mapId": "PRI",
+  "flag": "pr",
+  "fifaRank": 155,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Liga Puerto Rico",
+   "rank": 206,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "NCL": {
+  "name": "New Caledonia",
+  "mapId": "NCL",
+  "flag": "nc",
+  "fifaRank": 156,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Super Ligue",
+   "rank": 349,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "TAH": {
+  "name": "Tahiti",
+  "mapId": "PYF",
+  "flag": "",
+  "fifaRank": 157,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Ligue 1",
+   "rank": 372,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "MDA": {
+  "name": "Moldova",
+  "mapId": "MDA",
+  "flag": "md",
+  "fifaRank": 158,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Moldovan Super Liga",
+   "rank": 142,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "MYA": {
+  "name": "Myanmar",
+  "mapId": "MMR",
+  "flag": "mm",
+  "fifaRank": 159,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "National League",
+   "rank": 313,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "MLT": {
+  "name": "Malta",
+  "mapId": "MLT",
+  "flag": "mt",
+  "fifaRank": 160,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Maltese League",
+   "rank": 128,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "VAN": {
+  "name": "Vanuatu",
+  "mapId": "VUT",
+  "flag": "vu",
+  "fifaRank": 161,
+  "titles": 0,
+  "worldCup": null
+ },
+ "ATG": {
+  "name": "Antigua and Barbuda",
+  "mapId": "ATG",
+  "flag": "ag",
+  "fifaRank": 162,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier Division",
+   "rank": 177,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "CUB": {
+  "name": "Cuba",
+  "mapId": "CUB",
+  "flag": "cu",
+  "fifaRank": 163,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Primera Division",
+   "rank": 275,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "SWZ": {
+  "name": "Eswatini",
+  "mapId": "SWZ",
+  "flag": "sz",
+  "fifaRank": 164,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 212,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "LCA": {
+  "name": "St. Lucia",
+  "mapId": "LCA",
+  "flag": "lc",
+  "fifaRank": 165,
+  "titles": 0,
+  "worldCup": null
+ },
+ "VIN": {
+  "name": "St. Vincent / Grenadines",
+  "mapId": "VCT",
+  "flag": "vc",
+  "fifaRank": 166,
+  "titles": 0,
+  "worldCup": null
+ },
+ "PNG": {
+  "name": "Papua New Guinea",
+  "mapId": "PNG",
+  "flag": "pg",
+  "fifaRank": 167,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "National Soccer League",
+   "rank": 429,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "AFG": {
+  "name": "Afghanistan",
+  "mapId": "AFG",
+  "flag": "af",
+  "fifaRank": 168,
+  "titles": 0,
+  "worldCup": null
+ },
+ "GRN": {
+  "name": "Grenada",
+  "mapId": "GRD",
+  "flag": "gd",
+  "fifaRank": 169,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier Division",
+   "rank": 170,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "SSD": {
+  "name": "South Sudan",
+  "mapId": "SDS",
+  "flag": "ss",
+  "fifaRank": 170,
+  "titles": 0,
+  "worldCup": null
+ },
+ "BER": {
+  "name": "Bermuda",
+  "mapId": "BMU",
+  "flag": "bm",
+  "fifaRank": 171,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 306,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "MSR": {
+  "name": "Montserrat",
+  "mapId": "MSR",
+  "flag": "ms",
+  "fifaRank": 172,
+  "titles": 0,
+  "worldCup": null
+ },
+ "MDV": {
+  "name": "Maldives",
+  "mapId": "MDV",
+  "flag": "mv",
+  "fifaRank": 173,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Dhivehi Premier League",
+   "rank": 374,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "BRB": {
+  "name": "Barbados",
+  "mapId": "BRB",
+  "flag": "bb",
+  "fifaRank": 174,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 299,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "AND": {
+  "name": "Andorra",
+  "mapId": "AND",
+  "flag": "ad",
+  "fifaRank": 175,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Andorran First Division",
+   "rank": 209,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "TPE": {
+  "name": "Chinese Taipei",
+  "mapId": "TWN",
+  "flag": "tw",
+  "fifaRank": 176,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Taiwan Football Premier League",
+   "rank": 322,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "CAM": {
+  "name": "Cambodia",
+  "mapId": "KHM",
+  "flag": "kh",
+  "fifaRank": 177,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 314,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "NEP": {
+  "name": "Nepal",
+  "mapId": "NPL",
+  "flag": "np",
+  "fifaRank": 178,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "National League",
+   "rank": 329,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "MRI": {
+  "name": "Mauritius",
+  "mapId": "MUS",
+  "flag": "mu",
+  "fifaRank": 179,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Mauritian League",
+   "rank": 239,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "BLZ": {
+  "name": "Belize",
+  "mapId": "BLZ",
+  "flag": "bz",
+  "fifaRank": 180,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 310,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "CHA": {
+  "name": "Chad",
+  "mapId": "TCD",
+  "flag": "td",
+  "fifaRank": 181,
+  "titles": 0,
+  "worldCup": null
+ },
+ "BAN": {
+  "name": "Bangladesh",
+  "mapId": "BGD",
+  "flag": "bd",
+  "fifaRank": 182,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Bangladesh Premier League",
+   "rank": 342,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "ERI": {
+  "name": "Eritrea",
+  "mapId": "ERI",
+  "flag": "er",
+  "fifaRank": 183,
+  "titles": 0,
+  "worldCup": null
+ },
+ "SRI": {
+  "name": "Sri Lanka",
+  "mapId": "LKA",
+  "flag": "lk",
+  "fifaRank": 184,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Super League",
+   "rank": 370,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "ARU": {
+  "name": "Aruba",
+  "mapId": "ABW",
+  "flag": "aw",
+  "fifaRank": 185,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Division di Honor",
+   "rank": 208,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "DMA": {
+  "name": "Dominica",
+  "mapId": "DMA",
+  "flag": "dm",
+  "fifaRank": 186,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "DFA Premier League",
+   "rank": 399,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "COK": {
+  "name": "Cook Islands",
+  "mapId": "COK",
+  "flag": "ck",
+  "fifaRank": 187,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Round Cup",
+   "rank": 453,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "LAO": {
+  "name": "Laos",
+  "mapId": "LAO",
+  "flag": "la",
+  "fifaRank": 188,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Lao League",
+   "rank": 444,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "SAM": {
+  "name": "Samoa",
+  "mapId": "WSM",
+  "flag": "ws",
+  "fifaRank": 189,
+  "titles": 0,
+  "worldCup": null
+ },
+ "MNG": {
+  "name": "Mongolia",
+  "mapId": "MNG",
+  "flag": "mn",
+  "fifaRank": 190,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 396,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "ASA": {
+  "name": "American Samoa",
+  "mapId": "ASM",
+  "flag": "as",
+  "fifaRank": 191,
+  "titles": 0,
+  "worldCup": null
+ },
+ "BHU": {
+  "name": "Bhutan",
+  "mapId": "BTN",
+  "flag": "bt",
+  "fifaRank": 192,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 438,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "MAC": {
+  "name": "Macau, China",
+  "mapId": "MAC",
+  "flag": "mo",
+  "fifaRank": 193,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Primeira Divisão",
+   "rank": 383,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "STP": {
+  "name": "São Tomé and Príncipe",
+  "mapId": "STP",
+  "flag": "st",
+  "fifaRank": 194,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Campeonato Nacional",
+   "rank": 242,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "DJI": {
+  "name": "Djibouti",
+  "mapId": "DJI",
+  "flag": "dj",
+  "fifaRank": 195,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Division 1",
+   "rank": 269,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "BRU": {
+  "name": "Brunei",
+  "mapId": "BRN",
+  "flag": "bn",
+  "fifaRank": 196,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Super League",
+   "rank": 417,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "PAK": {
+  "name": "Pakistan",
+  "mapId": "PAK",
+  "flag": "pk",
+  "fifaRank": 197,
+  "titles": 0,
+  "worldCup": null
+ },
+ "CAY": {
+  "name": "Cayman Islands",
+  "mapId": "CYM",
+  "flag": "ky",
+  "fifaRank": 198,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "CIFA Premier League",
+   "rank": 307,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "TGA": {
+  "name": "Tonga",
+  "mapId": "TON",
+  "flag": "to",
+  "fifaRank": 199,
+  "titles": 0,
+  "worldCup": null
+ },
+ "SOM": {
+  "name": "Somalia",
+  "mapId": "SOM",
+  "flag": "so",
+  "fifaRank": 200,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Somali Premier League",
+   "rank": 321,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "GIB": {
+  "name": "Gibraltar",
+  "mapId": "GIB",
+  "flag": "gi",
+  "fifaRank": 201,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Gibraltar Premier Division",
+   "rank": 274,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "TLS": {
+  "name": "Timor-Leste",
+  "mapId": "TLS",
+  "flag": "tl",
+  "fifaRank": 202,
+  "titles": 0,
+  "worldCup": null
+ },
+ "GUM": {
+  "name": "Guam",
+  "mapId": "GUM",
+  "flag": "gu",
+  "fifaRank": 203,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "G League",
+   "rank": 415,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "TCA": {
+  "name": "Turks and Caicos Islands",
+  "mapId": "TCA",
+  "flag": "tc",
+  "fifaRank": 204,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 285,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "SEY": {
+  "name": "Seychelles",
+  "mapId": "SYC",
+  "flag": "sc",
+  "fifaRank": 205,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "Premier League",
+   "rank": 437,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "VIR": {
+  "name": "US Virgin Islands",
+  "mapId": "VIR",
+  "flag": "vi",
+  "fifaRank": 206,
+  "titles": 0,
+  "worldCup": null
+ },
+ "LIE": {
+  "name": "Liechtenstein",
+  "mapId": "LIE",
+  "flag": "li",
+  "fifaRank": 207,
+  "titles": 0,
+  "worldCup": null
+ },
+ "BAH": {
+  "name": "Bahamas",
+  "mapId": "BHS",
+  "flag": "bs",
+  "fifaRank": 208,
+  "titles": 0,
+  "worldCup": null
+ },
+ "VGB": {
+  "name": "British Virgin Islands",
+  "mapId": "VGB",
+  "flag": "vg",
+  "fifaRank": 209,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "BVIFA National League",
+   "rank": 244,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ },
+ "AIA": {
+  "name": "Anguilla",
+  "mapId": "AIA",
+  "flag": "ai",
+  "fifaRank": 210,
+  "titles": 0,
+  "worldCup": null
+ },
+ "SMR": {
+  "name": "San Marino",
+  "mapId": "SMR",
+  "flag": "sm",
+  "fifaRank": 211,
+  "titles": 0,
+  "worldCup": null,
+  "league": {
+   "name": "San Marino Campionato",
+   "rank": 397,
+   "players": 0,
+   "share": 0.0,
+   "otherLeaguePlayers": 0,
+   "allShare": 0.0
+  }
+ }
+}
